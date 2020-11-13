@@ -7,6 +7,7 @@ Released: unreleased
 
 == Features ==
  * Fixed issue #3654: Allow to completely disable the turtle animation, added TortoiseGit advanced setting "DownloadAnimation"
+ * Update libgit2 to 1.1.0
 
 == Bug Fixes ==
  * Fixed issue #3649: "multi-project pull/fetch/push" not working
